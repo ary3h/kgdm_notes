@@ -1,0 +1,8 @@
+== Prophecy
+
+=== 2022: Dream of Revival in Lippe
+I was at a Sunday night service with my family at Wa Neu Church, but it was in the region of Lippe.
+Crg Ell was there and I asked him why? He said he had moved here and loved it!
+Then the guy preaching said, but actually Jesus said, "People will come here from all over the World to drink!"
+In the same way we have these healing springs here at Bad Salzuflen and Bad Oeynhausen the Lord will start a movement here
+where people will come and drink of Him!

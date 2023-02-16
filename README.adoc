@@ -1,1 +1,20 @@
 = kgdm_notes
+
+* 3in1
+** link:bible/bible_0_toc.adoc[Bible Notes]
+*** link:bible/bible_declarations.adoc[Declarations]
+** link:3in1/3in1_prophecy.adoc[Prophecy]
+** link:3in1/3in1_ideas.adoc[ideas]
+== Personal Development
+
+== Family
+
+== Ecclesia
+
+== Work
+
+== Government
+
+
+== Other Links
+* link:LICENSE[LICENSE]

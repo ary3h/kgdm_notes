@@ -1,0 +1,18 @@
+== Disciple
+
+=== Notes
+* Add an assessment for the end of each session?
+** Also a longer term assessment for people to reflect on their overall discipleship journey...
+
+=== Topics
+* link:ecc_disc_jesus_the_foundation[Jesus the Foundation]
+** link:ecc_disc_jesus_the_foundation_de[Jesus the Foundation - Deutsch]
+** link:ecc_disc_jesus_the_foundation_fa[Jesus the Foundation - Persian (Farsi)]
+
+=== ToDo Backlog
+* link:ecc_disciple_jesus_encounter[Encountering Jesus]
+* link:ecc_disciple_fulness_vs_lack[Fulness vs. Lack]
+* Baptism
+** Romans 6:3-11
+* Freedom with Responsibility & Authority
+** Priests & Kings - Rule and reign with Jesus

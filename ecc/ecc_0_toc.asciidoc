@@ -1,0 +1,4 @@
+== Ecclesia
+
+* link:ecc_scale_out_church[Scale Out Church]
+* link:ecc_balance_going_and_gathering[Balancing going and gathering]

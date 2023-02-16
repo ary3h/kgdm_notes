@@ -1,0 +1,19 @@
+== Bible Table of Contents
+
+=== Torah
+* link:bible_genesis[Genesis]
+
+=== Prophets
+* link:bible_isaiah[Isaiah]
+* link:bible_daniel[Daniel]
+
+=== Gospels
+* Matthew
+* Mark
+* Luke
+* John
+
+=== Letters
+* link:bible_one_john[1 John]
+* link:bible_revelations[Revelations]
+

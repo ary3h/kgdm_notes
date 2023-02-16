@@ -1,0 +1,7 @@
+== Government
+
+* link:gov_1_the_kingdom[My politics is *THE* kingdom!]
+* link:gov_conservatism[Conservatives]
+* link:gov_socialism[Socialism]
+* link:gov_communism[Communism]
+* link:gov_green[Green]
