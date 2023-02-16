@@ -1,1 +1,0 @@
-# kgdm_notes
