@@ -5,9 +5,7 @@
 ** Also a longer term assessment for people to reflect on their overall discipleship journey...
 
 === Topics
-* link:ecc_disc_jesus_the_foundation[Jesus the Foundation]
-** link:ecc_disc_jesus_the_foundation_de[Jesus the Foundation - Deutsch]
-** link:ecc_disc_jesus_the_foundation_fa[Jesus the Foundation - Persian (Farsi)]
+* link:disc_jc_the_foundation.adoc[Jesus the Foundation]
 
 === ToDo Backlog
 * link:ecc_disciple_jesus_encounter[Encountering Jesus]
