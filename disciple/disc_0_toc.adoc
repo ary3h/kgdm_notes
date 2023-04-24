@@ -4,9 +4,12 @@
 * Add an assessment for the end of each session?
 ** Also a longer term assessment for people to reflect on their overall discipleship journey...
 
-=== Topics
+=== The Foundation of the Christian Faith
 * link:disc_jc_the_foundation.adoc[Jesus the Foundation of our Faith]
 * link:disc_how_build_on_jc_foundation.adoc[How do you build on Jesus the Foundation?]
+
+=== Repentance and Believing in Jesus
+* link:disc_repent.adoc[Repent]
 
 === ToDo Backlog
 * link:ecc_disciple_jesus_encounter[Encountering Jesus]
