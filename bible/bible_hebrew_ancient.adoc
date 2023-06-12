@@ -1,5 +1,10 @@
 == Hebrew
 
+=== TODO
+* https://www.ancient-hebrew.org/roots-words/root-system-of-hebrew-words.htm
+* https://www.ancient-hebrew.org/dictionary/500.html
+* https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf
+
 === Introduction
 * Understanding the Hebrew Language and Culture are important for getting to grips with the Old testament and understandin gthe culture that shaped and formed Jesus, the Apostles and the early Church.
 

@@ -1,5 +1,8 @@
 == Disciple
 
+=== Keywords
+* TODO
+
 === Notes
 * Add an assessment for the end of each session?
 ** Also a longer term assessment for people to reflect on their overall discipleship journey...
