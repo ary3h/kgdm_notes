@@ -1,4 +1,4 @@
-== Jesus the Foundation
+== How to build on Jesus: the Foundation
 
 === Introduction
 * Assuming you have laid a foundation of a personal encounter
