@@ -4,33 +4,33 @@
 * This journey should not exceed 3-4 years in total
 * it would be great to do thi sin a group no larger than 4-5 people
 * Read and discuss the Bible and content in the Jewish Tradition
+* Only focus on one theme per Quarter if possible!
 
-== Year 01
+== Year 1
 * link:foundations.adoc[Foundations Course]
 * 90 Day Reading Plan NT
 * 1 Year OT Reading Plan
 
-
-
-
-== TODO
-
-
+== Year 2
 * 3in1
-** link:bible/bible_0_toc.adoc[Bible Notes]
-*** link:bible/bible_declarations.adoc[Declarations]
 ** link:3in1/3in1_prophecy.adoc[Prophecy]
 ** link:3in1/3in1_ideas.adoc[ideas]
-== Personal Development
+* Personal Development
+* Family
+* Work
+* Ecclesia
 
-== Family
+== Year 3
+* Government
+* Leadership
 
-== Ecclesia
+== Year 4
+* How to learn and do research
+* Research Project
+* 4 x Papers
 
-== Work
-
-== Government
-
+== Other Languages
+* Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
 
 == Other Links
 * link:LICENSE[LICENSE]
