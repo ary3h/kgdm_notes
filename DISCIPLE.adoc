@@ -1,4 +1,14 @@
-= kgdm_notes
+= readme disciple
+* This journey should not exceed 3-4 years in total
+
+= Year 01
+* link:foundations[Foundations Course]
+
+
+
+
+== TODO
+
 
 * 3in1
 ** link:bible/bible_0_toc.adoc[Bible Notes]
