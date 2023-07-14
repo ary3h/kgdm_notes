@@ -1,7 +1,7 @@
 == Foundations
 
 * *Introduction*
-* This foundations course is based on Derek Prince's Book "Foundational Turht for Christian Living"
+** This foundations course is based on Derek Prince's Book "Foundational Turht for Christian Living"
 
 * link:foundations_p1.adoc[*Part 1 Foundation for Faith*]
 * link:disc_jc_the_foundation.adoc[Jesus the Foundation of our Faith]
