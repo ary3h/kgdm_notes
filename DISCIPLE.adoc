@@ -6,31 +6,39 @@
 * Read and discuss the Bible and content in the Jewish Tradition
 * Only focus on one theme per Quarter if possible!
 
-== Year 1
+== Year 1: Lay a solid folundation
 * link:foundations.adoc[Foundations Course]
 * 90 Day Reading Plan NT
 * 1 Year OT Reading Plan
 
-== Year 2
+== Year 2: Grow in Intimacy, Personal Growth & Family
 * 3in1
 ** link:3in1/3in1_prophecy.adoc[Prophecy]
 ** link:3in1/3in1_ideas.adoc[ideas]
 * Personal Development
 * Family
-* Work
-* Ecclesia
 
-== Year 3
+== Year 3: Learn to serve locally
+* Ecclesia
+* Work
+
+== Year 4: Learn to serve by leading
 * Government
 * Leadership
 
-== Year 4
+== Year 5: Serve a Father / Mother
 * How to learn and do research
 * Research Project
 * 4 x Papers
 
-== Other Languages
-* Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
+== Year 6-7: Become a Father / Mother
+* Start a kingdom initiative
+* Write a book on what you learned
+* Present a Talk on what you learned to other Fathers
 
-== Other Links
+== Notes
+* Other Languages
+** Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
+
+== Links
 * link:LICENSE[LICENSE]
