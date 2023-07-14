@@ -1,6 +1,6 @@
 = Discipleship Journey
 
-* Before you begin...
+* *Before you begin...*
 ** This journey should not exceed 3-4 years in total
 ** it would be great to do thi sin a group no larger than 4-5 people
 ** Read and discuss the Bible and content in the Jewish Tradition
@@ -11,34 +11,32 @@
 ** 90 Day Reading Plan NT
 ** 1 Year OT Reading Plan
 
-== Year 2: Grow in Intimacy, Personal Growth & Family
-* 3in1
-** link:3in1/3in1_prophecy.adoc[Prophecy]
-** link:3in1/3in1_ideas.adoc[ideas]
-* Personal Development
-* Family
+* *Year 2: Grow in Intimacy, Personal Growth & Family*
+** 3in1
+** Personal Development
+** Family
 
-== Year 3: Learn to serve locally
-* Ecclesia
-* Work
+* *Year 3: Learn to serve locally*
+** Ecclesia
+** Work
 
-== Year 4: Learn to serve by leading
-* Government
-* Leadership
+* *Year 4: Learn to serve by leading*
+** Government
+** Leadership
 
-== Year 5: Serve a Father / Mother
-* How to learn and do research
-* Research Project
-* 4 x Papers
+* *Year 5: Serve a Father / Mother*
+** How to learn and do research
+** Research Project
+** 4 x Papers
 
-== Year 6-7: Become a Father / Mother
-* Start a kingdom initiative
-* Write a book on what you learned
-* Present a Talk on what you learned to other Fathers
+* *Year 6-7: Become a Father / Mother*
+** Start a kingdom initiative
+** Write a book on what you learned
+** Present a Talk on what you learned to other Fathers
 
-== Notes
-* Other Languages
-** Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
+* *Notes*
+** Other Languages
+*** Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
 
-== Links
+* *Links*
 * link:LICENSE[LICENSE]
