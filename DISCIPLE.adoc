@@ -1,15 +1,15 @@
 = Discipleship Journey
 
-== before you begin...
-* This journey should not exceed 3-4 years in total
-* it would be great to do thi sin a group no larger than 4-5 people
-* Read and discuss the Bible and content in the Jewish Tradition
-* Only focus on one theme per Quarter if possible!
+* Before you begin...
+** This journey should not exceed 3-4 years in total
+** it would be great to do thi sin a group no larger than 4-5 people
+** Read and discuss the Bible and content in the Jewish Tradition
+** Only focus on one theme per Quarter if possible!
 
-== Year 1: Lay a solid folundation
-* link:foundations.adoc[Foundations Course]
-* 90 Day Reading Plan NT
-* 1 Year OT Reading Plan
+* Year 1: Lay a solid folundation
+** link:foundations/foundations_00_toc.adoc[Foundations Course]
+** 90 Day Reading Plan NT
+** 1 Year OT Reading Plan
 
 == Year 2: Grow in Intimacy, Personal Growth & Family
 * 3in1
