@@ -3,17 +3,16 @@
 * *Introduction*
 ** This foundations course is based on Derek Prince's Book "Foundational Turht for Christian Living"
 
-* link:foundations_p1.adoc[*Part 1 Foundation for Faith*]
+* [*Part 1 Foundation for Faith*]link:foundations_p1.adoc
 * link:foundations_01_jc_the_foundation.adoc[1. The Foundation of the Christian Faith]
-* link:disc_how_build_on_jc_foundation.adoc[How do you build on Jesus the Foundation?]
+* link:foundations_02_how_build_on_jc_foundation.adoc[How to Build on the Foundation]
 
-=== Repentance and Believing in Jesus
-* link:disc_repent.adoc[Repent]
+* *Part 2 Repent and Believe*
 
-=== ToDo Backlog
-* link:ecc_disciple_jesus_encounter[Encountering Jesus]
-* link:ecc_disciple_fulness_vs_lack[Fulness vs. Lack]
-* Baptism
-** Romans 6:3-11
-* Freedom with Responsibility & Authority
-** Priests & Kings - Rule and reign with Jesus
+* *TODO*
+** link:ecc_disciple_jesus_encounter[Encountering Jesus]
+** link:ecc_disciple_fulness_vs_lack[Fulness vs. Lack]
+** Baptism
+*** Romans 6:3-11
+** Freedom with Responsibility & Authority
+*** Priests & Kings - Rule and reign with Jesus
