@@ -1,3 +1,3 @@
 # KGDM NOTES
 
-* Discipleship Course - DISCIPLE.adoc
+* [Discipleship Course](DISCIPLE.adoc)
