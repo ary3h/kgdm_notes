@@ -1,4 +1,4 @@
-== Scaling Out Church
+=== Scaling Ecclesia (Church)
 
 === Current State
 * A lot of our energy goes into...
