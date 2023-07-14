@@ -6,7 +6,7 @@
 ** Read and discuss the Bible and content in the Jewish Tradition
 ** Only focus on one theme per Quarter if possible!
 
-* Year 1: Lay a solid folundation
+* *Year 1: Lay a solid folundation*
 ** link:foundations/foundations_00_toc.adoc[Foundations Course]
 ** 90 Day Reading Plan NT
 ** 1 Year OT Reading Plan
