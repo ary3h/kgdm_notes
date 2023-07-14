@@ -34,7 +34,9 @@
 ** Write a book on what you learned
 ** Present a Talk on what you learned to other Fathers
 
-* *Notes*
+* *TODO*
+** Add an assessment for the end of each session?
+*** Also a longer term assessment for people to reflect on their overall discipleship journey...
 ** Other Languages
 *** Are shown as indented bulleted files with the https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes[ISO 639-1] code as the filename ending (before the ".")
 
