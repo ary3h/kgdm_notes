@@ -7,6 +7,7 @@
 ** link:foundations_01_jc_the_foundation.adoc[1. The Foundation of the Christian Faith]
 ** link:foundations_02_how_build_on_jc_foundation.adoc[2. How to Build on the Foundation]
 ** link:foundations_03_auth_of_word.adoc[3. The Authority of Gods Word]
+** link:foundations_04_init_effects_word.adoc[4. Initial Effects of Gods Word]
 
 * *Part 2 Repent and Believe*
 
