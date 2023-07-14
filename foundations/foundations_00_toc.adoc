@@ -4,7 +4,7 @@
 ** This foundations course is based on Derek Prince's Book "Foundational Turht for Christian Living"
 
 * link:foundations_p1.adoc[*Part 1 Foundation for Faith*]
-* link:disc_jc_the_foundation.adoc[Jesus the Foundation of our Faith]
+* link:foundations_01*.adoc[1. The Foundation of the Christian Faith]
 * link:disc_how_build_on_jc_foundation.adoc[How do you build on Jesus the Foundation?]
 
 === Repentance and Believing in Jesus
