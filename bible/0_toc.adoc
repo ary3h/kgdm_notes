@@ -24,6 +24,7 @@
 
 === Themes
 * link:./themes/baptism.adoc[Baptism]
+* link:./themes/healing_health_wholeness.adoc[Healing, Health & Wholeness]
 * Entering Rest
 ** My experience has been pushing into Word not chilling has brought breakthrough? Misunderstanding of entering rest?
 
