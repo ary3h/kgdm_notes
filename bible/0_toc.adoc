@@ -23,6 +23,7 @@
 * link:bible_revelations[Revelations]
 
 === Themes
+* link:themes/baptism.adoc[Baptism]
 * Entering Rest
 ** My experience has been pushing into Word not chilling has brought breakthrough? Misunderstanding of entering rest?
 
