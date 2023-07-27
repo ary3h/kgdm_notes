@@ -1,6 +1,7 @@
 == Work
 
 === TODO
+* 1 Peter 2:18-24
 
 
 ==== Technology
