@@ -1,11 +1,14 @@
 === Repentance
 
 ==== Introduction
-* Hebrew
+*_
+
+==== Words in the Bible
+===== Hebrew
 ** Naham 5162??
 *** to retrun
 *** to turn back
-* Greek
+===== Greek
 ** metanoein
 *** To change one's mind
 *** A decision and not an emotion such as remorse
