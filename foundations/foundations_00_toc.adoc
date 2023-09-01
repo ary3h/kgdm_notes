@@ -1,5 +1,7 @@
 == Foundations
 
+=== Table of Contents
+
 * *Introduction*
 ** This foundations course is based on Derek Prince's Book "Foundational Turht for Christian Living"
 
