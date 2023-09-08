@@ -1,5 +1,33 @@
-== Keywords
+== Book (Genesis)
 
+=== Chapter (Genesis 1)
+
+==== Overview / Notes
+*
+
+==== 3in1
+*
+
+==== Personal Development
+*
+
+==== Family
+*
+
+==== Ecclesia
+*
+
+==== Work
+*
+
+==== Goverment / Community
+*
+
+==== Universal Themes
+*
+
+
+== Keywords
 * I have decided to standardize on certain tags / keywords for specific topics I want to trace through the Bible
 * This helps me and you to quickly gather all the ideas on a specific topic wherever notes have been made on them
 * Here are the Words...
@@ -11,3 +39,4 @@
 ** Men & Women
 ** Family
 ** Work / Money / Economics
+
