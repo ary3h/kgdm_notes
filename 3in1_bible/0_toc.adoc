@@ -1,38 +1,34 @@
-== Bible Table of Contents
+== Bible Notes
 
-=== About the Bible
-* link:bible_hebrew_ancient[Ancient Hebrew]
-* link:bible_greek_koine[Koine Greek]
+=== Table of Contents
 
-=== Torah
-* https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
-* link:bible_genesis[Genesis]
+* *About the Bible*
+** link:bible_hebrew_ancient[Ancient Hebrew]
+** link:bible_greek_koine[Koine Greek]
 
-=== Prophets (Nevi'im)
-* link:bible_isaiah[Isaiah]
-* link:bible_daniel[Daniel]
+* *Torah*
+** https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
+** link:bible_genesis[Genesis]
 
-=== Writings (Ketuvim)
+* *Prophets (Nevi'im)*
+** link:bible_isaiah[Isaiah]
+** link:bible_daniel[Daniel]
 
-=== Gospels
-* Matthew
-* Mark
-* Luke
-* John
+* *Writings (Ketuvim)*
 
-=== Acts of the Apostles
-* Acts
+* *Gospels*
+** Matthew
+** Mark
+** Luke
+** John
 
-=== Letters
-* link:bible_one_john[1 John]
-* link:bible_revelations[Revelations]
+* *Acts of the Apostles*
+** Acts
 
-=== Revelations (The Apocalypse)
-* Revelations
+* *Letters*
+** link:bible_one_john[1 John]
+** link:bible_revelations[Revelations]
 
-=== Themes
-* link:./themes/baptism.adoc[Baptism]
-* link:./themes/healing_health_wholeness.adoc[Healing, Health & Wholeness]
-* Entering Rest
-** My experience has been pushing into Word not chilling has brought breakthrough? Misunderstanding of entering rest?
+* *Revelations (The Apocalypse)*
+** Revelations
 

@@ -1,3 +1,5 @@
 == Universe
 
 * Topics related to the World and entire created order
+* Topics of a general nature that cover several main themes
+* Topics outsie of the standard themes
