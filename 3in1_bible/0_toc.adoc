@@ -8,7 +8,8 @@
 ** link:bible_hebrew_ancient[Ancient Hebrew]
 ** link:bible_greek_koine[Koine Greek]
 
-* *Torah*
+* **OT (Tanakh)**
+** *Torah*
 ** https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
 ** link:bible_genesis[Genesis]
 
