@@ -30,8 +30,8 @@
 *** Acts
 
 ** *Letters*
-*** link:letters/1john.adoc[1 John]
+*** link:6_letters/1john.adoc[1 John]
 
 ** *Revelations*
-*** link:revelations/revelations.adoc[Revelations]
+*** link:7_revelations/revelations.adoc[Revelations]
 
