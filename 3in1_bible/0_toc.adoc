@@ -31,8 +31,7 @@
 
 ** *Letters*
 *** link:bible_one_john[1 John]
-*** link:bible_revelations[Revelations]
 
 ** *Revelations*
-*** John's Revelation(s)
+*** link:revelations/revelations[Revelations]
 
