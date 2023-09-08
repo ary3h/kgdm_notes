@@ -3,6 +3,8 @@
 === Table of Contents
 
 * *About the Bible*
+** Did you know that the heberew Bible is often referred to as the Tanakh
+*** Word comes by combining the first letter from each of the 3 sections
 ** link:bible_hebrew_ancient[Ancient Hebrew]
 ** link:bible_greek_koine[Koine Greek]
 
@@ -29,6 +31,6 @@
 ** link:bible_one_john[1 John]
 ** link:bible_revelations[Revelations]
 
-* *Revelations (The Apocalypse)*
-** Revelations
+* *Revelations*
+** John's Revelation(s)
 
