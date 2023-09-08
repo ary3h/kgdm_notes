@@ -8,30 +8,31 @@
 ** link:bible_hebrew_ancient[Ancient Hebrew]
 ** link:bible_greek_koine[Koine Greek]
 
-* **OT (Tanakh)**
+* *OT (Tanakh)*
 ** *Torah*
-** https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
-** link:bible_genesis[Genesis]
+*** https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
+*** link:bible_genesis[Genesis]
 
-* *Prophets (Nevi'im)*
-** link:bible_isaiah[Isaiah]
-** link:bible_daniel[Daniel]
+** *Prophets (Nevi'im)*
+*** link:bible_isaiah[Isaiah]
+*** link:bible_daniel[Daniel]
 
-* *Writings (Ketuvim)*
+** *Writings (Ketuvim)*
 
-* *Gospels*
-** Matthew
-** Mark
-** Luke
-** John
+* NT
+** *Gospels*
+*** Matthew
+*** Mark
+*** Luke
+*** John
 
-* *Acts of the Apostles*
-** Acts
+** *Acts of the Apostles*
+*** Acts
 
-* *Letters*
-** link:bible_one_john[1 John]
-** link:bible_revelations[Revelations]
+** *Letters*
+*** link:bible_one_john[1 John]
+*** link:bible_revelations[Revelations]
 
-* *Revelations*
-** John's Revelation(s)
+** *Revelations*
+*** John's Revelation(s)
 
