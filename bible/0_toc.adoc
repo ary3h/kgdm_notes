@@ -8,9 +8,11 @@
 * https://www.ancient-hebrew.org/bookstore/digitalfiles/bct.pdf[Jeff Benner's Commentary on the Torah]
 * link:bible_genesis[Genesis]
 
-=== Prophets
+=== Prophets (Nevi'im)
 * link:bible_isaiah[Isaiah]
 * link:bible_daniel[Daniel]
+
+=== Writings (Ketuvim)
 
 === Gospels
 * Matthew
@@ -18,9 +20,15 @@
 * Luke
 * John
 
+=== Acts of the Apostles
+* Acts
+
 === Letters
 * link:bible_one_john[1 John]
 * link:bible_revelations[Revelations]
+
+=== Revelations (The Apocalypse)
+* Revelations
 
 === Themes
 * link:./themes/baptism.adoc[Baptism]
