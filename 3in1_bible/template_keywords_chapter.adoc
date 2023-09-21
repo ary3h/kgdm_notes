@@ -1,42 +1,35 @@
-== Book (Genesis)
+=== Book (Genesis)
 
-=== Chapter (Genesis 1)
-
-==== Overview / Notes
-*
-
-==== 3in1
-*
-
-==== Personal Development
-*
-
-==== Family
-*
-
-==== Ecclesia
-*
-
-==== Work
-*
-
-==== Goverment / Community
-*
-
-==== Universal Themes
-*
-
-
-== Keywords
+==== Notes (Delete when using the template)
 * I have decided to standardize on certain tags / keywords for specific topics I want to trace through the Bible
 * This helps me and you to quickly gather all the ideas on a specific topic wherever notes have been made on them
-* Here are the Words...
-** Abba
-** Yeshua
-** Ruach 
-** Ecclesia_Leadership
-** Govern
-** Men & Women
-** Family
-** Work / Money / Economics
+* This is accomplished by using standardized headings and bolded sections in this template
+
+==== Chapter (Genesis 1)
+
+===== Overview / Notes
+*
+
+===== 3in1
+* *Abba*
+* *Yeshua*
+* *Ruach*
+
+===== Personal Development
+*
+
+===== Family
+* *Marriage*
+
+===== Ecclesia
+* *Leadership*
+
+===== Work
+* *Finances*
+
+===== Goverment / Community
+* *Economics*
+
+===== Universal Themes
+* *Authority*
 
