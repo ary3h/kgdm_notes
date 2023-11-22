@@ -1,0 +1,49 @@
+= Links
+
+== KGDM
+* https://www.theologyofbusiness.com/[theologyofbusiness.com]
+* https://fai.online/[fai missions]
+
+
+== News
+* https://ft.com[ft.com]
+* https://bbc.com[bbc.com]
+* https://faz.net[faz.net]
+* https://wiwo.de[wiwo.de]
+* https://www.handelsblatt.com[handelsblatt.com]
+* https://sifted.eu[sifted.eu]
+** https://sifted.eu/talks[sifted.eu - talks]
+* https://thedispatch.com/[thedispatch.com]
+* https://www.dailywire.com/[dailywire.com]
+
+== Politics
+* https://ecrgroup.eu/[ecrgroup.eu]
+
+== AI
+* https://course.fast.ai/[course.fast.ai]
+* https://www.midjourney.com[midjourney.com/]
+* https://worlddataexchange.com/[Digi.me]
+
+
+
+== Coaching / Lean / Agile / Consulting
+* https://community.unfix.com/home[community.unfix.com]
+* https://winterheller.com/[winterheller.com]
+* https://fuchs-von-morgen.de/[Carsten Fuchs]
+* https://dandypeople.com/blog/[Dandy People]
+
+
+== ERP
+
+== Additive Manufacturing / 3D Printing
+
+== Current Notes to be investigated
+
+I don't care if "Agile is dead" or "Agile has won."
+Without a doubt, artificial intelligence is going to impact workers across the world. Many people will have to adapt to AI-powered Ways of Working, or else they lose their jobs. I believe middle managers are especially vulnerable here, as most of their work is coordination, communication, resourcing, and decision-making. These are precisely the kinds of activities we can expect AIs to take over. For this reason, as one of my interests, I will be doubling down on management in the age of AI.
+
+There is also no doubt that experience trumps product and service. Most of the Agile community is still stuck thinking in terms of product backlogs, product roadmaps, product owners, and product planning. But other models and movements (such as Design Thinking, Jobs-to-Be-Done, and Human-Centered Design) are far ahead of Agile, and innovative companies such as Haier explicitly focus on creating user journeys, not products. Each day, I remind myself to do the same: put each product in service of an experience.
+
+I also do not doubt that network-based companies outperform traditional structures. For many enterprises, this is the most difficult thing to wrap their heads around. How does it work when we strip HR units, Marketing departments, or even Finance of their monopolies and instead require them to offer a valuable service to the company network? With the unFIX model, we address this challenge because we believe that the future is networked and market-driven.
+
+These three trends are my priorities for the immediate future, and business agility is a prerequisite to make it all possible. Nothing will happen unless an organization learns to run experiments for continuous risk reduction and better experiences faster and more often. I call that business agility. Should we still call that "Agile"? Who cares?
