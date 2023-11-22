@@ -3,7 +3,15 @@
 == KGDM
 * https://www.theologyofbusiness.com/[theologyofbusiness.com]
 * https://fai.online/[fai missions]
+* https://www.thegospelcoalition.org/[The Gospel Coalition]
+* https://www.ancient-hebrew.org/[Jeff Benner]
 
+== Parenting
+* https://www.loveandlogic.com/[loveandlogic.com]
+
+== Judaica
+* https://www.chabad.org/calendar/view/day.htm[chabad.org]
+* https://www.myjewishlearning.com/[myjewishlearning.com]
 
 == News
 * https://ft.com[ft.com]
@@ -31,6 +39,9 @@
 * https://winterheller.com/[winterheller.com]
 * https://fuchs-von-morgen.de/[Carsten Fuchs]
 * https://dandypeople.com/blog/[Dandy People]
+
+
+
 
 
 == ERP
