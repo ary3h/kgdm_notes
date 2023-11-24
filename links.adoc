@@ -48,6 +48,9 @@
 
 == Additive Manufacturing / 3D Printing
 
+== Permaculture
+* https://www.learnpermaculture.com/[learnpermaculture.com]
+
 == Current Notes to be investigated
 
 I don't care if "Agile is dead" or "Agile has won."
