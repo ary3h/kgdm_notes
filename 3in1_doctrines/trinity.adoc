@@ -10,10 +10,18 @@ Let's first delve into the Tanakh to see what it tells us about the triune natur
 > Hear, O Israel: The LORD our God, the LORD is one.
 -- Deuteronomy 6:4 WEB
 
+==== Tanakh
 We begin our journey with the Shema, a resounding declaration of God's unity.
 But as we progress through the biblical narrative, hints of complexity emerge.
 
-== Genesis: The Plurality of God:
+
+===== Genesis
+> Elohim created
+-- Genesis 1:1
+* Elohim is plural
+
+* *Let us...*
+
 > Let us make man in our image, after our likeness.
 -- Genesis 1:26 WEB
 
