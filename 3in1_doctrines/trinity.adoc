@@ -6,9 +6,7 @@ These metaphors barely scratch the surface of the richness encapsulated in the T
 
 Let's first delve into the Tanakh to see what it tells us about the triune nature of YHWH.
 
-== The Shema and the Oneness of God:
-> Hear, O Israel: The LORD our God, the LORD is one.
--- Deuteronomy 6:4 WEB
+
 
 ==== Tanakh
 We begin our journey with the Shema, a resounding declaration of God's unity.
@@ -27,6 +25,10 @@ But as we progress through the biblical narrative, hints of complexity emerge.
 -- Genesis 1:26 WEB
 
 In Genesis, we witness a tantalizing glimpse into a divine conversation, hinting at the plurality of God.
+
+*The Shema and the Oneness of God*
+> Hear, O Israel: The LORD our God, the LORD is one.
+-- Deuteronomy 6:4 WEB
 
 == The Father, the Son, and the Holy Spirit:
 > And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
