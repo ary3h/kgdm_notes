@@ -1,5 +1,16 @@
 = Foundations
 
+This course is a foundations course for Christian Faith.
+The classes have been setup based on the biblical calendar and the number 4o which represents testing, preparation, transformation, and renewal in the Bible.
+The idea is that there are 40 weeks of classes in total.
+The classes are held in all four seasons and it is suggested as follows:
+
+*Spring:* Nisan (Directly after the Passover), Iyar, Sivan 
+*Summer:* Tammuz, Av, Elul with a break in between for Summer Holidays
+*Autumn:* Tishrei, Cheshvan, Kislev
+*Winter:* Tevet, Shevat, Adar 1&2
+
+
 == Table of Contents
 
 * *Introduction*
