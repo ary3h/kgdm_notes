@@ -28,3 +28,19 @@ until late in life because they need to move around for their job.
 * What if we could also make the transaction costs so cheap that they are essentially negligble?
 * What if once could use something like blockchain technology to manage these transactions so that should a dispute come up around rates and who owned the house at that time
 ** ... one could easily address the issue then.
+
+=== Current State
+* Buying & Selling Property costs a lot of money and takes some time
+** Often due to costs associated with lawyers and the local council etc.
+
+=== Future State
+* Buy and sell property like buying and selling stock on the stock exchange
+
+=== Analysis
+* If we could buy and sell property easily without any major middle men the prices would perhaps come down
+* The ability to easily trade property would increase trade and interest in property and would probably drive the price down to reasonable rates based on real value
+
+=== Countermeasures
+* Build a startup that...
+** Builds a stock exchange system to trade property
+** Have in house lawyers who templatize the legal documentation required in each country
