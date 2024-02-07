@@ -1,0 +1,30 @@
+== A3: Make it inexpensive and easy to transfer property
+
+=== Background
+* Isaiah 5
+
+==== The Biblical Principle
+It is clear that the Lord is not happy with a society where property lies in the hands of a few.
+Apart from the current prices of housing which is an issue, many people don't purchase houses
+until late in life because they need to move around for their job.
+
+> Woe to those who join house to house; They add field to field, Till there is no place Where they may dwell alone in the midst of the land!
+> -- Isaiah 5:8 NKJV
+
+> What sorrow for you who buy up house after house and field after field, until everyone is evicted and you live alone in the land.
+> -- Isaiah 5:8 NLT
+
+> Woe (judgment is coming) to those who join house to house and join field to field [to increase their holdings by depriving others], Until there is no more room [for others], So that you have to live alone in the midst of the land!
+> -- Isaiah 5:8 AMP
+
+> Those who accumulate houses are as good as dead, those who also accumulate landed property until there is no land left, and you are the only landowners remaining within the land.
+> -- Isaiah 5:8 NET
+
+> Woe to those who join house to house, who lay field to field, until there is no room, and you are made to dwell alone in the middle of the land!
+> -- Isaiah 5:8 WEB
+
+==== Some key questions...
+* What if we could make buying and selling property as easy as buying and selling stock on a stock exchange?
+* What if we could also make the transaction costs so cheap that they are essentially negligble?
+* What if once could use something like blockchain technology to manage these transactions so that should a dispute come up around rates and who owned the house at that time
+** ... one could easily address the issue then.
