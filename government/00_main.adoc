@@ -1,0 +1,14 @@
+= Government
+
+== Important ideas
+* One should consider implementing ideas as startups that may never become profitable, but the idea is to show the World that your idea can work.
+** Once you have proven the idea it will be easier to get legislation changed or passed.
+
+== Table of Contents
+* link:gov_1_the_kingdom[My politics is *THE* kingdom!]
+
+* *Systems of this World*
+** link:gov_conservatism[Conservatives]
+** link:gov_socialism[Socialism]
+** link:gov_communism[Communism]
+** link:gov_green[Green]
